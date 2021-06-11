@@ -1,0 +1,42 @@
+[
+    {
+        "id": 3,
+        "family_id": 4,
+        "person_name": "Mavjibhai A.",
+        "mob_1": "9825440581",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 20,
+        "family_id": 4,
+        "person_name": "Hareshbhai M.",
+        "mob_1": "9898337533",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 21,
+        "family_id": 4,
+        "person_name": "Hiteshbhai M.",
+        "mob_1": "9898501841",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 47,
+        "family_id": 4,
+        "person_name": "Harshaben H.",
+        "mob_1": "9925551316",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 48,
+        "family_id": 4,
+        "person_name": "Meenakshi",
+        "mob_1": "9662112180",
+        "mob_2": null,
+        "email_id": null
+    }
+]

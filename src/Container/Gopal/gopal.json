@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "family_id": 1,
+        "person_name": "Gopalbhai N.",
+        "mob_1": "9825015819",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 15,
+        "family_id": 1,
+        "person_name": "Prakashbhai G.",
+        "mob_1": "9377701219",
+        "mob_2": "097129 01219",
+        "email_id": ""
+    },
+    {
+        "id": 43,
+        "family_id": 1,
+        "person_name": "Pritiben P.",
+        "mob_1": "9974694096",
+        "mob_2": "",
+        "email_id": ""
+    }
+]

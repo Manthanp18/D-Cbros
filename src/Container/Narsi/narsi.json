@@ -1,0 +1,34 @@
+[
+    {
+        "id": 6,
+        "family_id": 7,
+        "person_name": "Narshibhai K.",
+        "mob_1": "9724713502",
+        "mob_2": "",
+        "em{ail_id": ""
+    },
+    {
+        "id": 27,
+        "family_id": 7,
+        "person_name": "Maheshbhai N.",
+        "mob_1": "9879916061",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 28,
+        "family_id": 7,
+        "person_name": "Hasmukhbhai N.",
+        "mob_1": "9725404058",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 54,
+        "family_id": 7,
+        "person_name": "Ranjanaben M.",
+        "mob_1": "9426768224",
+        "mob_2": "",
+        "email_id": ""
+    }
+]

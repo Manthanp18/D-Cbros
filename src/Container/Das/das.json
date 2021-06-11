@@ -1,0 +1,42 @@
+[
+    {
+        "id": 12,
+        "family_id": 13,
+        "person_name": "Dasbhai A.",
+        "mob_1": "9825329299",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 38,
+        "family_id": 13,
+        "person_name": "Anilbhai D.",
+        "mob_1": "9925029299",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 39,
+        "family_id": 13,
+        "person_name": "Akashbhai D.",
+        "mob_1": "9727729299",
+        "mob_2": "",
+        "email_id": "askashgpatel.90@gmail.com"
+    },
+    {
+        "id": 68,
+        "family_id": 13,
+        "person_name": "Bhagwatiben D.",
+        "mob_1": "9601785555",
+        "mob_2": "",
+        "email_id": ""
+    },
+    {
+        "id": 69,
+        "family_id": 13,
+        "person_name": "Darshnaben A.",
+        "mob_1": "9375488600",
+        "mob_2": "",
+        "email_id": ""
+    }
+]

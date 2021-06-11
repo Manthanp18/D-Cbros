@@ -1,29 +1,24 @@
 import React, { Component } from 'react';
 import Aux from '../../hoc/Aux';
 import axios from 'axios';
-import classes from '../Detail/detail.css';
+import classes from '../Gopal/gopal.css';
 import Header from '../../Components/Header/Header';
 import Footer from '../../Components/Footer/Footer';
 import {Container, Row, Col, Button } from 'react-bootstrap';
-import detail from './detail.json';
+import gopal from './parbat.json';
 
-class Detail extends Component {
+class Parbat extends Component {
     userId = this.props.match.params.id
     state = {
        detail:[],
     }
 
     componentDidMount() {
-        const familyData = detail;
+        const familyData = gopal;
         this.setState({detail: familyData})
     }
     
     render() {
-        const data =this.state.detail.filter(function(el) {
-            console.log(this.userId)
-            return el.family_id = this.userId
-        })
-
         const detail = this.state.detail.map(det => {
             return (
                 <center> 
@@ -73,4 +68,4 @@ class Detail extends Component {
         )
     }
 }
-export default Detail;
+export default Parbat;

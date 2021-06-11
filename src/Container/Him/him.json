@@ -1,0 +1,27 @@
+[
+    {
+        "id": 13,
+        "family_id": 14,
+        "person_name": "Himmatbhai K.",
+        "mob_1": "9825331955",
+        "mob_2": "",
+        "email_id": "hkpatel68@gmail.com"
+    },
+    {
+        "id": 40,
+        "family_id": 14,
+        "person_name": "Ronakbhai H.",
+        "mob_1": "9726632464",
+        "mob_2": "",
+        "email_id": "roniepatel.90@gmail.com"
+    },
+    {
+        "id": 70,
+        "family_id": 14,
+        "person_name": "Kamlaben H.",
+        "mob_1": "9408759446",
+        "mob_2": "",
+        "email_id": ""
+    }
+
+]

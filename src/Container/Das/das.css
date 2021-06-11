@@ -1,0 +1,35 @@
+#detail {
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 10px;
+    width: 100%;
+    height: 100%;
+    margin-top: 2%;
+}
+
+#name {
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: black;
+    margin-top: 10%;
+    font-size: 24px;
+    background-color: whitesmoke;
+}
+
+#no {
+    font-size: 22px;
+    color: black;
+    font-weight: normal;
+}
+
+#email {
+    font-size: 22px;
+}
+
+#back {
+    font-weight: bolder;
+    margin-top: 2%;
+}
