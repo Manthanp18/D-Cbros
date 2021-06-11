@@ -1,0 +1,16 @@
+
+#header {
+    background-color: grey;
+    text-align: center;
+    z-index: 1000;
+    /* position: fixed; */
+    margin-top: 2%;
+
+}
+
+#head {
+    font-weight: bolder;
+    color: whitesmoke;
+    font-family: monospace;
+    text-align: center;
+}
