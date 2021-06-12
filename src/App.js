@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Family from '../src/Container/Family/family';
-import Detail from '../src/Container/Detail/detail';
 import Gopal from '../src/Container/Gopal/gopal';
 import Suresh from '../src/Container/Suresh/suresh';
 import Naran from '../src/Container/Naran/naran';
@@ -40,10 +39,6 @@ class App extends Component {
         <Route path="/detail/13" component={Dasend} exact />
         <Route path="/detail/14" component={Him} exact />
         <Route path="/detail/15" component={Pars} exact />
-
-
-
-
       </Router>
     );
   }
