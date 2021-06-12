@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Aux from '../../hoc/Aux';
-import classes from '../Family/table.css';
+import '../Family/table.css';
 import { Link } from 'react-router-dom';
 import {Container, Row, Col} from 'react-bootstrap';
 import  Header  from '../../Components/Header/Header';

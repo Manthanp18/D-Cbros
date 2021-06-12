@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Aux from '../../hoc/Aux';
-import axios from 'axios';
-import classes from '../Gopal/gopal.css';
+import  '../Gopal/gopal.css';
 import Header from '../../Components/Header/Header';
 import Footer from '../../Components/Footer/Footer';
 import {Container, Row, Col, Button } from 'react-bootstrap';
